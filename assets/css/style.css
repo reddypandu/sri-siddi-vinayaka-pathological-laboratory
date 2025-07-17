@@ -3928,7 +3928,7 @@ input[type=radio] {
   .banner-layout6 .banner-img {
     position: relative;
     z-index: 2;
-    margin-top: -240px;
+    /* margin-top: -240px; */
   }
   .banner-layout6 .banner-img img {
     border-radius: 20px;
