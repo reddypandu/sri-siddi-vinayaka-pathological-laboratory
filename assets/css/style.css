@@ -1097,7 +1097,7 @@ h6 {
 .page-title-layout1 .breadcrumb-area,
 .page-title-layout2 .breadcrumb-area,
 .page-title-layout3 .breadcrumb-area {
-  margin-top: 150px;
+  /* margin-top: 150px; */
   padding: 22px 0;
   border-top: 1px solid rgba(255, 255, 255, 0.25);
 }
@@ -3723,7 +3723,10 @@ input[type=radio] {
 .banner-layout4 .btn-white:hover {
   color: #ffffff;
 }
-
+.india{
+  width:35px;
+  height:21px;
+}
 .banner-layout3 .top-shape {
   height: 90px;
   background-color: #001278;
